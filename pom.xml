@@ -40,7 +40,6 @@
                 <version>0.8.5</version>
 
                 <executions>
-
                     <execution>
                         <id>check</id>
                         <goals>
